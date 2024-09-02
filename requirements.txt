@@ -5,4 +5,5 @@ matplotlib
 seaborn
 yfinance
 tensorflow
-ipykernel
+keras
+
